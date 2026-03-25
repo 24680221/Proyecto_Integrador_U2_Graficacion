@@ -163,6 +163,8 @@ Se obtuvo una animación fluida donde:
 <img width="653" height="539" alt="Captura de pantalla 2026-03-24 210855" src="https://github.com/user-attachments/assets/be06aca8-517a-490e-89b5-18268e095cbc" />
 <img width="659" height="504" alt="Captura de pantalla 2026-03-24 210901" src="https://github.com/user-attachments/assets/4e4ef295-2289-4213-aa4d-ef4096c7a054" />
 <img width="534" height="369" alt="Captura de pantalla 2026-03-24 210905" src="https://github.com/user-attachments/assets/0a818cef-445c-493f-8b11-83dfa4840f70" />
+<img width="418" height="307" alt="Captura de pantalla 2026-03-24 214539" src="https://github.com/user-attachments/assets/5b8f3922-492e-43b6-aeb6-037791fc1bf0" />
+<img width="393" height="261" alt="Captura de pantalla 2026-03-24 214545" src="https://github.com/user-attachments/assets/45a8018c-b437-4c56-818f-4afea567ef09" />
 
 # Conclusión
 
